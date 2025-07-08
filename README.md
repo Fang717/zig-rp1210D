@@ -1,6 +1,6 @@
 # RP1210D Implementation in Zig
 
-This project is a complete implementation of the [RP1210D](https://www.sae.org/standards/content/j2534/), the most recent revision of the **RP1210** communications interface standard, written entirely in the [Zig programming language](https://ziglang.org/).
+This project is a complete implementation of the [RP1210D](https://www.atabusinesssolutions.com/Shopping/Product/viewproduct/2675472/TMC-Individual-RP), the most recent revision of the **RP1210** communications interface standard, written entirely in the [Zig programming language](https://ziglang.org/).
 
 The purpose of this project is to provide a **native Zig library** for developing diagnostic and reprogramming tools compatible with RP1210-compliant devices such as the **Nexiq USB-Link**, **DrewLinQ**, **Dearborn DPA5**, and others.
 
