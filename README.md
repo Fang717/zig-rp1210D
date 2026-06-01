@@ -28,8 +28,9 @@ Zig offers modern tooling, a simpler build system, and direct memory control, ma
 
 ### Requirements
 
-- Zig 0.15.0 or later
+- Zig 0.16.0 or later
 - Windows (for RP1210 DLLs)
+- Linux
 - RP1210-compliant hardware and drivers
 
 ### Build
